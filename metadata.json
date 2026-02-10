@@ -1,0 +1,8 @@
+{
+  "name": "EESAA Mobile - Weighing Scale Management",
+  "description": "A comprehensive mobile management and billing solution for EESAA, featuring offline-first billing, stock management, and AI-powered analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
